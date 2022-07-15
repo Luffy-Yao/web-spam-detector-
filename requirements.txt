@@ -47,7 +47,7 @@ dask==2.1.0
 dateparser==0.7.2
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.1.0
+distributed==2021.10.0
 docutils==0.14
 -e git+https://github.com/MentatInnovations/datastream.io@a243b89ec3c4e06473b5004c498c472ffd37ead2#egg=dsio
 elasticsearch==7.0.4
