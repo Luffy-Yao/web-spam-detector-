@@ -103,7 +103,7 @@ kibana-dashboard-api==0.1.2
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.1
 libarchive-c==2.8
-lief==0.9.0
+lief==0.12.1
 lightgbm==2.3.0
 llvmlite==0.29.0
 locket==0.2.0
